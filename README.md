@@ -21,3 +21,6 @@ Anggota Kelompok 2  =
 15. E1E122141_Sitti Rahmayani Ose
 16. E1E122149_Yun Muntarti
 17. E1E122148_Wifna Naisyarah
+
+
+n
